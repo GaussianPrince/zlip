@@ -1,0 +1,12 @@
+".\IP.obj",
+".\NetIf.obj",
+".\TCP.obj",
+".\TCPIPmem.obj",
+".\icmp.obj",
+".\ARP.obj",
+".\etherif.obj",
+".\RTL8019.obj",
+".\main.obj",
+".\GloblDef.obj" 
+TO "Ex1" 
+RAMSIZE(256) 
